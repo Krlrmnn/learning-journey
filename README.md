@@ -17,5 +17,3 @@ Each folder includes:
 ## 🛠️ Tech Stack
 - **Python 3.10+**
 - **VS Code + WSL2 (Ubuntu)**
-
----
