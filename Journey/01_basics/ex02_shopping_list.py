@@ -1,0 +1,5 @@
+list1 = input("Enter 5 items for your shopping list, separated by commas: ")
+items = list(list1.split(","))
+print(f"Your shopping list items are: {items}")
+print(f"The first item on your list is: {items[0]}")
+print(f"The last item on your list is: {items[-1]}")
