@@ -23,6 +23,26 @@ The focus is on learning how to control program flow and apply logical checks.
 - **ex05_even_or_odd.py**  
   Check whether a given number is even or odd using the modulus operator `%`.
 
+- **ex07_leap_year.py**  
+  Determines if a given year is a leap year based on the rules:  
+  - Divisible by 4 → candidate.  
+  - Divisible by 100 → not leap, unless divisible by 400.  
+
+- **ex08_calculator.py**  
+  A simple calculator that takes two numbers and an operation (`+`, `-`, `*`, `/`).  
+  - Includes error handling for invalid operations and division by zero.  
+
+- **ex09_triangle_type.py**  
+  Classifies a triangle given the lengths of its sides:  
+  - Checks validity (positive sides + triangle inequality).  
+  - Equilateral / Isosceles / Scalene.  
+
+- **ex10_voting_eligibility.py**  
+  Verifies if the user is eligible to vote in Colombia:  
+  - Must be 18 or older.  
+  - Must be a Colombian citizen (`yes`).  
+  - Input normalized with `.strip().lower()`.
+
 ---
 
 ### Notes
