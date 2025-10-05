@@ -17,6 +17,14 @@ Each script practices a different concept related to iterating, filtering, or tr
   Counts the number of vowels in a given word and prints the total.  
   *Practiced*: string traversal, condition validation with `in`, and numeric accumulation.
 
+- **ex04_palindrome_check.py**  
+  Checks if a word or phrase is a palindrome (reads the same backward).  
+  *Practiced*: string normalization, reversal, and conditional comparison.
+
+- **ex05_count_words.py**  
+  Counts how many words are in a sentence entered by the user.  
+  *Practiced*: splitting strings into lists, measuring list length, and formatted output.
+
 ---
 
 ### Notes
@@ -25,3 +33,7 @@ This section introduced:
 - Building and filtering strings dynamically.  
 - Applying membership checks (`in`, `not in`) for validation.  
 - Understanding accumulator logic in the context of text processing.
+- String traversal and dynamic manipulation.  
+- Data cleaning and normalization techniques.  
+- Conditional validation and comparison logic.  
+- Practical text processing for automation and input handling.
